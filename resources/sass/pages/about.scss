@@ -1,0 +1,110 @@
+.content-text {
+    font-size: 1rem;
+    p {
+        text-indent: 30px; /* установите значение отступа в пикселях */
+    }
+
+}
+.title h2 {
+    text-align: center;
+}
+
+
+#slide-window  {
+    background: #000;
+    img {
+        width:100%;
+        box-shadow: 0px 1px 2px rgba(242,237,197,0.2),
+        0px 1px 4px rgba(242,237,197,0.2),
+        0px 1px 8px rgba(242,237,197,0.2),
+        0px 1px 16px rgba(242,237,197,0.2);
+    }
+
+}
+#slide-window:hover{
+    img{
+        opacity: 0.9;
+    }
+}
+.fancybox__container {
+    video {
+        height:85% !important;
+    }
+}
+.services{
+    margin-top: 15px;
+    .content{
+        display: flex;
+        justify-content: center;
+        h4{
+            margin-bottom: 10px;
+        }
+        img {
+            object-fit: cover;
+            object-position: top;
+            width: 100%;
+            height: 400px;
+        }
+        .col {
+            min-width: 380px;
+            margin-bottom: 20px;
+            h3{
+                color: $golden-color;
+                margin-bottom: 15px;
+            }
+            p{
+                margin-top: 10px;
+                min-height: 80px;
+            }
+            a{
+                color: $golden-color;
+                font-size: 14px;
+                text-transform: uppercase;
+                font-weight: 500;
+                -webkit-transition: all 0.3s;
+                -o-transition: all 0.3s;
+                transition: all 0.3s;
+            }
+            a:hover, a:focus {
+                text-decoration: none;
+                outline: none;
+                color: #fff;
+            }
+        }
+    }
+
+}
+
+@media screen and (max-width: 1200px) {
+    .content-text {
+        font-size: 0.85rem;
+    }
+}
+@media screen and (max-width: 991px) {
+    .services{
+        .content{
+            .col {
+                min-width: 300px;
+                h3{
+                    float: left;
+                }
+            }
+        }
+    }
+    .title h2 {
+        text-align: left;
+    }
+}
+@media screen and (max-width: 767px) {
+    .content-text p{
+        text-indent: 0;
+    }
+    .services{
+        .content{
+            .col {
+                min-width: 100%;
+            }
+        }
+    }
+}
+

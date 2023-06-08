@@ -1,0 +1,64 @@
+.smoke-screen {
+    height: 100vh;
+}
+#canvas {
+    background: url('/public/images/Moon.png') no-repeat center center;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    bottom: 0px;
+    left: 0px;
+    margin: 0;
+    padding: 0;
+}
+.smoke-screen a{
+    width: 400px;
+    max-width: 70vw;
+    height: 65px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 60%;
+    text-align: center;
+    font-size: 21px;
+    font-family: $font-family;
+    border-color: #F2EDC5;
+    color: #F2EDC5;
+    border-width: 2px;
+    padding-top: 12px;
+}
+.smoke-screen a:hover{
+    background-color: #ECE7B5;
+    color: #3B2C1E !important;
+    box-shadow:
+        0 0 5px rgba(240,234,221,0.5),
+        0 0 10px rgba(240,234,221,0.5),
+        0 0 20px rgba(240,234,221, 0.5),
+        0 0 30px rgba(240,234,221, 0.5);
+}
+@media only screen and (max-width: 991px) {
+    .smoke-screen a{
+        bottom: 10%;
+        top: auto;
+        font-size: 18px;
+        padding-top: 16px;
+        border-color: #000;
+        box-shadow: 0 0 8px #000;
+        color: #000;
+    }
+    #canvas {
+        background: url('/public/images/Moon-mobile1.jpeg') no-repeat center center;
+        background-size: cover;
+        position: absolute;
+        width: 100%;
+        height: 100vh;
+        bottom: 0px;
+        left: 0px;
+        margin: 0;
+        padding: 0;
+    }
+
+}
+

@@ -1,0 +1,78 @@
+{
+  "public/images/Moon-mobile1.jpeg": {
+    "file": "assets/Moon-mobile1-91e303e4.jpeg",
+    "src": "public/images/Moon-mobile1.jpeg"
+  },
+  "public/images/Moon.png": {
+    "file": "assets/Moon-0af12c9c.png",
+    "src": "public/images/Moon.png"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-f59fc6ba.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/Moon-0af12c9c.png",
+      "assets/Moon-mobile1-91e303e4.jpeg"
+    ],
+    "css": [
+      "assets/app-f59fc6ba.css"
+    ],
+    "dynamicImports": [
+      "resources/js/menu.js",
+      "resources/js/cart.js",
+      "resources/js/smoke.js",
+      "resources/js/gallery/index.js",
+      "resources/js/carousel/index.js",
+      "resources/js/header.js"
+    ],
+    "file": "assets/app-cda402cb.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/carousel/index.css": {
+    "file": "assets/index-85aae0f8.css",
+    "src": "resources/js/carousel/index.css"
+  },
+  "resources/js/carousel/index.js": {
+    "css": [
+      "assets/index-85aae0f8.css"
+    ],
+    "file": "assets/index-39869fd6.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/carousel/index.js"
+  },
+  "resources/js/cart.js": {
+    "file": "assets/cart-70a2f489.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/cart.js"
+  },
+  "resources/js/gallery/index.css": {
+    "file": "assets/index-8fa550ec.css",
+    "src": "resources/js/gallery/index.css"
+  },
+  "resources/js/gallery/index.js": {
+    "css": [
+      "assets/index-8fa550ec.css"
+    ],
+    "file": "assets/index-c78ddaaf.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/gallery/index.js"
+  },
+  "resources/js/header.js": {
+    "file": "assets/header-ccea6dff.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/header.js"
+  },
+  "resources/js/menu.js": {
+    "file": "assets/menu-5fe677f7.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/menu.js"
+  },
+  "resources/js/smoke.js": {
+    "file": "assets/smoke-5ce1bbd8.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/smoke.js"
+  }
+}

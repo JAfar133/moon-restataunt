@@ -1,0 +1,56 @@
+.basket-page {
+    padding-bottom: 60px;
+    hr{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .cart-item {
+        display: flex;
+        justify-content: space-between;
+        height: 90px;
+        align-items: center;
+        .cart-img {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            width: 40%;
+            img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover; /* чтобы изображение заполняло блок, но не искажалось */
+            }
+        }
+        .cart-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            width: 50%;
+            padding-left: 10px;
+            padding-right: 10px;
+            height: 90%;
+            .sub-content {
+                display: flex;
+                justify-content: space-between;
+            }
+        }
+        .cart-delete {
+            height: 100%;
+            display: flex;
+            align-items: start;
+            justify-content: end;
+            width: 10%;
+        }
+    }
+    .cart-foot{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 25px;
+        .price-total{
+            display: flex;
+        }
+    }
+}
+

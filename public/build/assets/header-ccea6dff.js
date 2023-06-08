@@ -1,0 +1,1 @@
+let l=document.getElementById("burgerBtn"),n=document.getElementById("mobile");document.getElementById("demo1");l.addEventListener("click",function(){n.classList.toggle("navigation");let t=document.getElementsByClassName("for-blur");Array.from(t).forEach(function(e){e.classList.contains("blur")?e.classList.remove("blur"):e.classList.add("blur")})},!1);
