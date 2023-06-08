@@ -6,6 +6,7 @@ use App\Models\Image;
 use App\Models\Menu;
 use App\Models\MenuItem;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
 
 class HomeController extends Controller
 {
@@ -194,9 +195,11 @@ class HomeController extends Controller
     public function gallery()
     {
         $images = Image::query()->paginate(15);
-
+        $imageUrls = $images->map(function ($image) {
+            return Storage::disk('local')->url($image->src);
+        });
         return view('layouts.pages.gallery.index', [
-            'images' => $images->items(),
+            'images' => $imageUrls->items(),
             'data' => $images
         ]);
     }
