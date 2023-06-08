@@ -16,7 +16,7 @@
     </div>
 
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-5">
             <div id="slide-window">
                 <a data-fancybox="hero" href="{{ asset('images/hero2.webp') }}">
                     <img src="{{ asset('images/hero2.webp') }}" alt="hero image" />

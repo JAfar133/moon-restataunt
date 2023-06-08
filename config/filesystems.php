@@ -35,6 +35,16 @@ return [
             'root' => storage_path('app'),
             'throw' => false,
         ],
+        'ftp' => [
+            'driver'   => 'ftp',
+            'host'     => '185.114.245.108',
+            'username' => 'co38010',
+            'password' => '!MishaSergey2015',
+            'root'     => '~/moon-storage',
+            'port'     => 21,
+            'passive'  => true,
+            'ssl'      => false,
+        ],
 
         'public' => [
             'driver' => 'local',
