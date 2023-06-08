@@ -32,7 +32,7 @@ return [
 
         'local' => [
             'driver' => 'local',
-            'root' => env('FILESYSTEM_ROOT', storage_path('app')),
+            'root' => storage_path('app'),
             'throw' => false,
         ],
 

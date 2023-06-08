@@ -8,7 +8,7 @@
     "src": "public/images/Moon.png"
   },
   "resources/js/app.css": {
-    "file": "assets/app-42e03554.css",
+    "file": "assets/app-1bc6ff68.css",
     "src": "resources/js/app.css"
   },
   "resources/js/app.js": {
@@ -17,7 +17,7 @@
       "assets/Moon-mobile1-91e303e4.jpeg"
     ],
     "css": [
-      "assets/app-42e03554.css"
+      "assets/app-1bc6ff68.css"
     ],
     "dynamicImports": [
       "resources/js/menu.js",
@@ -27,7 +27,7 @@
       "resources/js/carousel/index.js",
       "resources/js/header.js"
     ],
-    "file": "assets/app-d81abe0f.js",
+    "file": "assets/app-969e482e.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   },
