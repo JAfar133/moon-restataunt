@@ -4,7 +4,7 @@
         <div class=" col-md-5">
             <div class="card gallery-card menu-card h-100">
                 <a href="#menu-1" class="menu-img">
-                    <img src="/images/menu-main.webp" class="gallery-img" alt="photo">
+                    <img src="/images/menu-main1.webp" class="gallery-img" alt="photo">
                     <div class="overlay">
                         <p>Подробнее...</p>
                     </div>
