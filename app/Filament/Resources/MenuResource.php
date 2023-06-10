@@ -26,7 +26,7 @@ class MenuResource extends Resource
             ->schema([
                 Forms\Components\FileUpload::make('path')->label('Загрузить меню')
                     ->disk('local')
-                    ->directory('menu')
+                    ->directory('moon-storage/menu')
                     ->image()
                     ->multiple()
                     ->preserveFilenames(false)

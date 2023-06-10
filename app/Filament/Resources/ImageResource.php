@@ -25,7 +25,7 @@ class ImageResource extends Resource
             ->schema([
                 Forms\Components\FileUpload::make('path')->label('Загрузить картинку')
                     ->disk('local')
-                    ->directory('images')
+                    ->directory('moon-storage/images')
                     ->image()
                     ->multiple()
                     ->preserveFilenames(false)
