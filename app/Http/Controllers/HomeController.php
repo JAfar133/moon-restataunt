@@ -84,7 +84,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-        $images = Image::query()->paginate(15);
+        $images = Image::query()->orderByDesc('id')->paginate(15);
         $menus = Menu::query()->get();
 
         $dataImages = [

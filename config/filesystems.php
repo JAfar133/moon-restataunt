@@ -73,6 +73,7 @@ return [
         public_path('storage') => storage_path('app/public'),
         public_path('storage/images') => storage_path('app/images'),
         public_path('storage/menu') => storage_path('app/menu'),
+        public_path('storage/moon-storage') => storage_path('app/moon-storage')
     ],
 
 ];
