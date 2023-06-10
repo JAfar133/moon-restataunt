@@ -4,8 +4,8 @@
             <h3 style="color: #fff" class="mb-5">Всегда рады ответить на все ваши вопросы</h3>
             <h3 class="mb-3">Наши контакты</h3>
             <h2>+7(925) 574-99-66</h2>
-            <p class="content-text mt-3">Ждем вас на ул. Совхозная 39, тц Люблино
-                3 этаж. Наслаждайтесь едой в Moon Lounge!</p>
+            <h3 style="color: #fff; font-size: 22px" class="mt-3">Ждем вас на ул. Совхозная 39, тц Люблино
+                3 этаж. Наслаждайтесь едой в Moon Lounge!</h3>
             <ul class="ms-auto mt-3 mb-5 d-inline-flex nav-social list-unstyled">
                 <li class="nav-item">
                     <a href="https://instagram.com/moon_lounge_hookah?igshid=YmMyMTA2M2Y=" target="_blank" class="nav-link"><i class="fab fa-instagram"></i></a>
