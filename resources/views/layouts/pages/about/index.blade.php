@@ -16,7 +16,7 @@
     </div>
 
     <div class="row">
-        <div class="col-md-5">
+        <div class="col-lg-5">
             <div id="slide-window">
                 <a data-fancybox="hero" href="{{ asset('images/hero2.webp') }}">
                     <img src="{{ asset('images/hero2.webp') }}" alt="hero image" />
@@ -45,7 +45,7 @@
             </div>
 
         </div>
-        <div class="col-md-6 content-text mt-4">
+        <div class="col-lg-6 content-text mt-4">
             <h2 class="title">О Moon Lounge</h2>
             <hr>
             <p>Moon Lounge - это уникальное место, которое предлагает совершенно новый формат заведения ресторана.

@@ -1,8 +1,8 @@
 <div class="container" id="menu-src">
 
     <div class="row">
-        <div class="col-md-5">
-            <div class="card menu-card h-100" id="slide-window">
+        <div class="col-lg-5">
+            <div class="card menu-card" id="slide-window">
                 <a href="#menu-1" class="menu-img">
                     <img src="/images/menu-main1.webp" class="gallery-img" alt="photo">
                     <div class="overlay">
@@ -16,7 +16,7 @@
                 </a>
             @endforeach
         </div>
-        <div class="col-md-6 mt-2 menu-text">
+        <div class="col-lg-6 mt-2 menu-text">
             <h2 class="mt-4" id="menu-section">О нашем меню!</h2>
             <hr>
             <p>Меню нашего ресторана предлагает разнообразные блюда, которые удовлетворят любой вкус.
