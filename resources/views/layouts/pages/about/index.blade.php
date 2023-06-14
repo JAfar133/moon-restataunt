@@ -1,5 +1,5 @@
-<section class="container my-5 parallax-container">
-    <div class="section-title text-moon mb-5 mt-5">
+<section class="container my-3 parallax-container">
+    <div class="section-title text-moon mb-5">
         <h1 id="about">MOON</h1>
         <h3>LOUNGE RESTAURANT</h3>
         <ul class="ms-auto mt-5 d-inline-flex nav-social list-unstyled">
