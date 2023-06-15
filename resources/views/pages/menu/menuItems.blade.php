@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Меню | MOON LOUNGE - кальянная в Москве</title>
+    <title>Меню | MOON LOUNGE</title>
 
     <link rel="apple-touch-icon" sizes="180x180" href="/images/icon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/icon/favicon-32x32.png">

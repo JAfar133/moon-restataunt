@@ -7,17 +7,22 @@
     "file": "assets/Moon-0af12c9c.png",
     "src": "public/images/Moon.png"
   },
+  "public/images/background/back-smoke1-fotor-darker.jpg": {
+    "file": "assets/back-smoke1-fotor-darker-35e1bf6f.jpg",
+    "src": "public/images/background/back-smoke1-fotor-darker.jpg"
+  },
   "resources/js/app.css": {
-    "file": "assets/app-dd0e27e4.css",
+    "file": "assets/app-f824942e.css",
     "src": "resources/js/app.css"
   },
   "resources/js/app.js": {
     "assets": [
       "assets/Moon-0af12c9c.png",
-      "assets/Moon-mobile1-91e303e4.jpeg"
+      "assets/Moon-mobile1-91e303e4.jpeg",
+      "assets/back-smoke1-fotor-darker-35e1bf6f.jpg"
     ],
     "css": [
-      "assets/app-dd0e27e4.css"
+      "assets/app-f824942e.css"
     ],
     "dynamicImports": [
       "resources/js/menu.js",
@@ -27,7 +32,7 @@
       "resources/js/carousel/index.js",
       "resources/js/header.js"
     ],
-    "file": "assets/app-f7ab279b.js",
+    "file": "assets/app-49394fcd.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   },

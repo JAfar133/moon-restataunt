@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Корзина | MOON LOUNGE - кальянная в Москве</title>
+    <title>Корзина | MOON LOUNGE</title>
 
     <meta name="description" content="MOON LOUNGE - это уютная кальянная в Москве, где каждый гость может
         насладиться вкуснейшими кальянами, изысканными блюдами и авторскими коктейлями.">

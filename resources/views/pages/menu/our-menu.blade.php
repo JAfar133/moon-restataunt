@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Меню | MOON LOUNGE - кальянная в Москве</title>
+    <title>Меню | MOON LOUNGE</title>
 
 
 

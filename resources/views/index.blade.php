@@ -22,6 +22,11 @@
         @include('layouts.smoke-screen')
 
         <div class="main">
+            <img src="images/sparks/xspark-info-2.webp" class="gallery-img menu-img" alt="photo" style="position: absolute; left: 0; z-index: -1; top: 0">
+            <img src="images/sparks/xspark-info-2.webp" class="gallery-img menu-img" alt="photo" style="position: absolute; right: 0; z-index: -1; top: 55vh">
+            <img src="images/sparks/xspark-features.webp" class="gallery-img menu-img" alt="photo" style="position: absolute; left: 0; z-index: -1; top: 120vh">
+            <img src="images/sparks/xspark-info-1.png" class="gallery-img menu-img" alt="photo" style="position: absolute; left: 0; z-index: -1; top: 260vh">
+            <img src="images/sparks/xspark-features.webp" class="gallery-img menu-img" alt="photo" style="position: absolute; right: 0; z-index: -1; top: 200vh">
             @include('layouts.pages.about.index')
 
             @if(!empty($menus))

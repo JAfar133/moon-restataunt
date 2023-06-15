@@ -4,7 +4,7 @@
         <div class="col-lg-5">
             <div class="card menu-card" id="slide-window">
                 <a href="#menu-1" class="menu-img">
-                    <img src="/images/menu-main1.webp" class="gallery-img" alt="photo">
+                    <img src="/images/menu-main.jpg" class="gallery-img" alt="photo" >
                     <div class="overlay">
                         <p>Подробнее...</p>
                     </div>
