@@ -2,7 +2,7 @@
     height: 100vh;
 }
 #canvas {
-    background: url('/public/images/Moon.png') no-repeat center center;
+    background: url('/public/images/Moon.webp') no-repeat center center;
     background-size: cover;
     position: absolute;
     width: 100%;
@@ -49,7 +49,7 @@
         color: #000;
     }
     #canvas {
-        background: url('/public/images/Moon-mobile1.jpeg') no-repeat center center;
+        background: url('/public/images/Moon-mobile1.webp') no-repeat center center;
         background-size: cover;
         position: absolute;
         width: 100%;
