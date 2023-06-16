@@ -45,7 +45,7 @@
             </div>
 
         </div>
-        <div class="col-lg-6 content-text mt-4">
+        <div class="col-lg-7 content-text mt-4">
             <h2 class="title">О Moon Lounge</h2>
             <hr>
             <p>Moon Lounge - это уникальное место, которое предлагает совершенно новый формат заведения ресторана.

@@ -7,22 +7,22 @@
     "file": "assets/Moon-f753f2f9.webp",
     "src": "public/images/Moon.webp"
   },
-  "public/images/background/back-smoke1-fotor-darker.webp": {
-    "file": "assets/back-smoke1-fotor-darker-c8778b48.webp",
-    "src": "public/images/background/back-smoke1-fotor-darker.webp"
+  "public/images/background/noise.png": {
+    "file": "assets/noise-8f2ae80a.png",
+    "src": "public/images/background/noise.png"
   },
   "resources/js/app.css": {
-    "file": "assets/app-38cda159.css",
+    "file": "assets/app-e671513e.css",
     "src": "resources/js/app.css"
   },
   "resources/js/app.js": {
     "assets": [
       "assets/Moon-f753f2f9.webp",
       "assets/Moon-mobile1-a77c6a9d.webp",
-      "assets/back-smoke1-fotor-darker-c8778b48.webp"
+      "assets/noise-8f2ae80a.png"
     ],
     "css": [
-      "assets/app-38cda159.css"
+      "assets/app-e671513e.css"
     ],
     "dynamicImports": [
       "resources/js/menu.js",
@@ -32,7 +32,7 @@
       "resources/js/carousel/index.js",
       "resources/js/header.js"
     ],
-    "file": "assets/app-cf798254.js",
+    "file": "assets/app-59a3e3e3.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   },
