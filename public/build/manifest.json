@@ -7,22 +7,22 @@
     "file": "assets/Moon-f753f2f9.webp",
     "src": "public/images/Moon.webp"
   },
-  "public/images/background/noise.png": {
-    "file": "assets/noise-8f2ae80a.png",
-    "src": "public/images/background/noise.png"
+  "public/images/background/noise.jpg": {
+    "file": "assets/noise-f71a1d84.jpg",
+    "src": "public/images/background/noise.jpg"
   },
   "resources/js/app.css": {
-    "file": "assets/app-e671513e.css",
+    "file": "assets/app-35a78c4b.css",
     "src": "resources/js/app.css"
   },
   "resources/js/app.js": {
     "assets": [
       "assets/Moon-f753f2f9.webp",
       "assets/Moon-mobile1-a77c6a9d.webp",
-      "assets/noise-8f2ae80a.png"
+      "assets/noise-f71a1d84.jpg"
     ],
     "css": [
-      "assets/app-e671513e.css"
+      "assets/app-35a78c4b.css"
     ],
     "dynamicImports": [
       "resources/js/menu.js",
@@ -32,7 +32,7 @@
       "resources/js/carousel/index.js",
       "resources/js/header.js"
     ],
-    "file": "assets/app-59a3e3e3.js",
+    "file": "assets/app-6f0e87b7.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   },
