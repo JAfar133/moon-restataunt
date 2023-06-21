@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Главная | MOON LOUNGE</title>
+        <title>Главная | MOON LOUNGE Люблино</title>
 
 
 
