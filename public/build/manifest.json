@@ -12,7 +12,7 @@
     "src": "public/images/background/noise.jpg"
   },
   "resources/js/app.css": {
-    "file": "assets/app-f9cb04bb.css",
+    "file": "assets/app-1c7d93b1.css",
     "src": "resources/js/app.css"
   },
   "resources/js/app.js": {
@@ -22,7 +22,7 @@
       "assets/noise-f71a1d84.jpg"
     ],
     "css": [
-      "assets/app-f9cb04bb.css"
+      "assets/app-1c7d93b1.css"
     ],
     "dynamicImports": [
       "resources/js/menu.js",
@@ -32,7 +32,7 @@
       "resources/js/carousel/index.js",
       "resources/js/header.js"
     ],
-    "file": "assets/app-9b6272b4.js",
+    "file": "assets/app-27fed682.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   },
